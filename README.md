@@ -14,6 +14,16 @@
 - Forecasting
 - Generated predictions for Netflix stock prices using the chosen model.
 - Evaluated performance with visual plots and error metrics.
+  
+
+# Univariate Models Implemented
+This repository now includes implementations of univariate time series models for Netflix stock price prediction:
+- AR (Autoregressive)
+- MA (Moving Average)
+- ARMA (Autoregressive Moving Average)
+- ARIMA (Autoregressive Integrated Moving Average)
+- SARIMA (Seasonal ARIMA)
+
 
   
 # Tools & Libraries
