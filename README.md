@@ -25,6 +25,14 @@ This repository now includes implementations of univariate time series models fo
 - SARIMA (Seasonal ARIMA)
 
 
+# Multivariate Models Implemented
+This repository includes implementations of multivariate time series models for Netflix stock price prediction:
+- VAR (Autoregressive)
+- VMA (Moving Average)
+- VARMA (Autoregressive Moving Average)
+- VARIMA (Autoregressive Integrated Moving Average)
+
+
   
 # Tools & Libraries
 - Python (NumPy, Pandas, Matplotlib, Statsmodels)
